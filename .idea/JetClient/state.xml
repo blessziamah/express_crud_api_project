@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ec11dada-5efa-4c5d-841e-db07df96894b" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:5000/api/contacts/" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3aed72e9-c169-4913-b021-c7f39e8dd7b8" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 1" />
+              <option name="url" value="http://localhost:5000/api/contacts/" />
+            </requestState>
+            <requestState>
+              <option name="id" value="ad0bd0fa-e9cb-4219-a4fc-7fb6364d6def" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 2" />
+              <option name="url" value="http://localhost:8000/api/contacts" />
+            </requestState>
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <iK>
+                      <option name="token" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiQmxlc3MiLCJlbWFpbCI6ImJsZXNzQGdtYWlsLmNvbSIsImlkIjoiNjUwM2FkZjIzYjVhNGE5ZDBkNWQxNjgyIn0sImlhdCI6MTY5NDc0MTkyMCwiZXhwIjoxNjk0NzQxOTgwfQ.RnLgEYto1fqF39Fv0tMoyTW4LfzmTWFQEa186KnJqZQ" />
+                    </iK>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;email&quot;: &quot;bless@gmail.com&quot;,&#10;  &quot;password&quot;: &quot;123456&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Authorization" />
+                    <option name="value" value="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiQmxlc3MiLCJlbWFpbCI6ImJsZXNzQGdtYWlsLmNvbSIsImlkIjoiNjUwM2FkZjIzYjVhNGE5ZDBkNWQxNjgyIn0sImlhdCI6MTY5NDc0MDcyNCwiZXhwIjoxNjk0NzQwNzg0fQ.vNqVNvvCsVhCxrwJtUSMjBzal_PPQI6ffcJDBO8nnlo" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c6a80726-361b-43ea-8903-3a41db184910" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft 3" />
+              <option name="url" value="http://localhost:5000/api/users/login" />
+            </requestState>
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <iK>
+                      <option name="token" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiQmxlc3MiLCJlbWFpbCI6ImJsZXNzQGdtYWlsLmNvbSIsImlkIjoiNjUwM2FkZjIzYjVhNGE5ZDBkNWQxNjgyIn0sImlhdCI6MTY5NDc0MjAzMCwiZXhwIjoxNjk0NzQyMDkwfQ.adWBTmUY3X37OvcAMyj-5P6ZOQ-pwLqsaGzh-hESaQw" />
+                    </iK>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="6b357501-af60-41ab-ba2e-64fedf7380e3" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 4" />
+              <option name="url" value="http://localhost:5000/api/users/current" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="aca5e714-6b0d-42db-955e-bb3ad97f11bd" />
+  </component>
+</project>
